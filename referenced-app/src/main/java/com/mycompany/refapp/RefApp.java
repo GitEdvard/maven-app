@@ -10,4 +10,8 @@ public class RefApp
     {
         System.out.println( "Hello from referenced!" );
     }
+
+    public void hello() {
+        System.out.println( "Hello from referenced!" );
+    }
 }
